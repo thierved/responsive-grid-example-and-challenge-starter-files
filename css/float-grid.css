@@ -56,18 +56,25 @@
   /* 3 columns, 3/12 in % */
   .col-3 {
     width: 25%;
+
   }
 
   /* 4 columns */
   .col-4 {
+    width: 33%;
+
   }
 
   /* 6 columns */
   .col-6 {
+    width: 45%;
+    margin: 15px;
 
   }
 
   /* 12 columns */
   .col-12 {
+    width: 98%;
+    padding-bottom: 20px;
   }
 }
